@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**ChangITTech/ChangITTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# IT Homelab Portfolio
 
-Here are some ideas to get you started:
+CompTIA A+ | Network+ | CCNA (In Progress)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hands-on projects covering Windows Server, Active Directory, Linux, networking, and IT support.
+
+<details>
+<summary><b>Active Directory Projects</b></summary>
+
+- [Active Directory Domain Setup](https://github.com/ChangITTech/ADD-Setup)
+- [Active Directory User Management](https://github.com/ChangITTech/ActiveDirectoryAddUsers)
+- [Ubuntu–Active Directory Integration](https://github.com/ChangITTech/UbuntuJoinWindowsServer2022Public)
+
+</details>
+
+<details>
+<summary><b>Networking & Infrastructure Projects</b></summary>
+
+- [Windows Server 2022 Setup](https://github.com/ChangITTech/WindowServer2022Setup)
+- [Windows–Ubuntu SMB File Sharing](https://github.com/ChangITTech/Windows-Server-2022-SMB-File-Sharing-with-Ubuntu)
+
+</details>
+
+<details>
+<summary><b>IT Support Projects</b></summary>
+
+- [ServiceNow Ticketing Simulation](https://github.com/ChangITTech/ServiceNowSimulation)
+
+</details>
