@@ -9,7 +9,7 @@ CompTIA A+ | Network+ | CCNA (In Progress)
 
 I am building practical IT experience through hands-on homelabs focused on Windows Server, Active Directory, Linux, and networking.
 
-My career interests include network engineering and cybersecurity.
+My career interests include network engineering.
 
 ---
 
